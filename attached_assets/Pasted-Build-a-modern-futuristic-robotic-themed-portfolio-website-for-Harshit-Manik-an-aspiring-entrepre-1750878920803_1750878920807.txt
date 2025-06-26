@@ -1,0 +1,116 @@
+Build a modern, futuristic, robotic-themed portfolio website for Harshit Manik, an aspiring entrepreneur and cutting-edge innovator in Agentic AI, IoT, AR/VR, and Edge AI analytics. The site should feature a sleek, high-tech look, with a cool-toned palette (blues, greys, cyber-black), subtle animations, and metallic UI elements to reflect Harshit’s deep tech expertise and forward-thinking approach. A circular profile picture with a techy glow effect should be placed prominently on the homepage.
+
+Site Structure:
+Home
+
+Hero section with animated background (like a circuit board or low-opacity AI wireframe mesh).
+
+Profile picture of Harshit with a short intro:
+"Hi, I'm Harshit Manik — a builder at heart, passionate about Agentic AI, real-time IoT systems, and futuristic automation. I build, deploy, and scale ideas that push the edge of intelligent systems."
+
+Call-to-action button: “Explore My Work” or “Download CV”.
+
+About
+
+Detailed bio:
+
+Aspiring Entrepreneur, Agentic-AI & IoT enthusiast.
+
+Currently pursuing B.E. in Electronics and Communication at Thapar Institute (2023–2027).
+
+Passionate about research, real-time implementation, and building edge-to-cloud intelligence.
+
+Education Timeline:
+
+Thapar Institute of Engineering & Technology (2023–2027)
+
+Pinewood School (Class 12, 92.2%)
+
+Montfort School, Roorkee (Class 10, 95.6%)
+
+Soft skills: Leadership, public speaking, team coordination.
+
+Experience
+
+Timeline layout with role cards showing:
+
+Hexaware (Summer Intern)
+Deploying RAG & Agentic AI for automation in sales and industrial pipelines.
+
+CEEMS & ECED, Thapar University (Dec 2024 – Present)
+Raspberry Pi–based medical AI; improved diagnosis and response speed.
+
+IIT Roorkee Internship (Jun–Aug 2024)
+Robotic and AR/VR systems with predictive haptics.
+
+AeroInspect-Solar (Co-Founder)
+AI-driven drone analytics; improved solar efficiency by 26%; ISB pre-incubation participant.
+
+Projects
+
+Grid layout with cards for:
+
+SAS to Python Agentic AI Converter (Hexaware):
+Secure offline RAG-LangChain model; +5% efficiency.
+
+AR-Based Industrial Dashboard:
+Real sensors to AR overlays; thermal & pressure mapping.
+
+AI for Glucose Monitoring:
+MQTT + Flask dashboard; 95% real-time accuracy.
+
+Acoustic Threat Detection (NIT Jalandhar):
+CNN & STFT integration with Flask; 93% classification accuracy.
+
+Add “View More Projects” button.
+
+Skills
+
+Visual categorization (tech icons or animated cards):
+
+AI/ML: TensorFlow, Keras, CV, scikit-learn, Predictive Analytics
+
+IoT: Raspberry Pi, Arduino, MQTT, Real-Time Edge
+
+AR/VR: Unity, Vuforia, AR dashboards
+
+Tools: Python, Pandas, NumPy, Seaborn, Flask
+
+Agentic AI: LangChain, Crew AI, Google Cloud, LaTeX
+
+Soft Skills: Leadership, Team Management, Communication
+
+Services
+
+Icons + short blurbs:
+
+AI Automation Consulting
+
+AR/VR Industrial Prototyping
+
+IoT & Embedded System Development
+
+Agentic AI Workflow Deployment
+
+Research Prototyping & Collaboration
+
+Contact
+
+Clean contact form
+
+Email: hmanik_be23@thapar.edu
+
+LinkedIn: linkedin.com/in/hmanik23
+
+Phone: 8958434000
+
+Design Recommendations:
+Font: Futuristic sans-serif like “Orbitron” or “Rajdhani.”
+
+Animations: Hover transitions, scroll-based fade-ins, line drawing effects on section borders.
+
+Background: Subtle animations of digital grids, agent flows, or data waveforms.
+
+UI Elements: Neon-lit buttons, robotic iconography, modular card designs.
+
+Tech vibe: Chrome-like textures, minimal gradients, dark mode default.

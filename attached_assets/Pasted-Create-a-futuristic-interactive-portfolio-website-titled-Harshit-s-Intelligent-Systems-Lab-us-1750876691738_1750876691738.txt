@@ -1,0 +1,77 @@
+Create a futuristic, interactive portfolio website titled **“Harshit’s Intelligent Systems Lab”** using React, Vite, Tailwind CSS, Three.js, and EmailJS. The goal is to showcase Harshit Manik's deep tech projects, startup experience, and agentic AI research in a highly visual and engaging way.
+
+---
+
+🧠 About Harshit:
+- AI/IoT/Embedded Systems Engineer
+- Worked with Agentic AI (multi-agent decision systems with Quartz optimization expert, drone image classifiers, and sensor-triggered actions)
+- Built a non-invasive glucose monitoring system (RF S-parameters + ML)
+- Designed predictive analytics tools for solar cleaning drones and threat classification using CNN + acoustic STFT
+- Skills include: TensorFlow, Flask, MQTT, Raspberry Pi, Vuforia, Unity, React, Tailwind, Three.js
+
+---
+
+📦 Project Requirements:
+
+1. **Hero Section**
+   - Fullscreen 3D background (particles or rotating rings) using Three.js
+   - Animated title: “Harshit’s Intelligent Systems Lab”
+   - Subtitles rotating: “AI Researcher | IoT Developer | AR/VR Explorer | Startup Builder”
+   - Call-to-action button: “Explore My Agents”
+   - Light/dark mode toggle stored in localStorage
+
+2. **Agentic Sectional Navigation**
+   - Each section has a virtual "agent" that briefly introduces it (e.g., SystemSynth for Projects, TechTagger for Skills)
+   - Use Framer Motion or Tailwind transitions for animations
+
+3. **Projects Section**
+   - Use graph layout or visual tiles to show interlinked components: sensors → Pi → ML model → output
+   - Each project opens a modal or 3D detail card with tech stack, results, GitHub/demo links
+   - Showcase: Glucose Monitoring, Acoustic Threat Detection, Aeroinspect-Solar, Predictive Drone AI
+
+4. **Skills Section**
+   - 3D rotating tag cloud using `@react-three/fiber` and `drei`
+   - Tooltip-style explanations when hovering
+
+5. **Experience Section**
+   - Timeline of key roles: IIT Roorkee intern, Thapar Research, Aeroinspect-Solar Founder
+   - Use icons/logos, animated scroll transitions
+
+6. **Publications/Patents**
+   - Flip cards or reveal tiles
+   - Show patent badge where applicable
+
+7. **Contact**
+   - Glassmorphism email form using EmailJS
+   - Fields: Name, Email, Message
+   - On success: confetti animation
+   - Social media links: GitHub, LinkedIn
+
+---
+
+🎨 UI Design:
+- Minimal, sci-fi lab vibe
+- Color palette: deep blues, tech purples, grayscale
+- Use modern sans-serif font (e.g., Inter, Sora)
+- Floating navbar with scroll tracking
+
+---
+
+🛠️ Tech & Config:
+- React + Vite
+- Tailwind CSS
+- Three.js or @react-three/fiber
+- Framer Motion
+- EmailJS integration
+- Firebase-ready structure with `firebase.json` and `.env` setup
+- Light/dark theme persisted via localStorage
+- Build with performance in mind: code-split, lazy-load assets, tree-shake, and compress
+
+---
+
+📄 Output:
+- Fully working code scaffolded in Replit
+- All components modularized (`src/components`)
+- Use file naming like: `Hero.jsx`, `Projects.jsx`, `AgentBio.jsx`, `Skills3D.jsx`, `ContactForm.jsx`
+- README should include build steps, env setup, Firebase hosting instructions
+

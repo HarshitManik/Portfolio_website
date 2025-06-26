@@ -1,0 +1,98 @@
+You are an advanced full-stack developer and AI designer.
+
+Build a cinematic, ultra-interactive portfolio website titled **“Harshit’s Intelligent Systems Lab”** for **Harshit Manik**, an AI/IoT/Embedded Systems researcher and startup founder.
+
+---
+
+🎯 OBJECTIVE:
+To showcase Harshit’s deep tech work in a **creative and agent-driven interface**, combining research, innovation, and 3D storytelling.
+
+---
+
+🔧 TECH STACK:
+- React + Vite + Tailwind CSS
+- Three.js / @react-three/fiber for 3D
+- Framer Motion for scroll/section animations
+- EmailJS for contact
+- Firebase Hosting ready
+- React Helmet for SEO
+- Optional: use Zustand or Redux for agent state handling
+
+---
+
+🧠 SECTIONS & AGENTS:
+
+1. **Hero**:
+   - 3D animated floating text: “Harshit’s Intelligent Systems Lab”
+   - Background: animated agent orbits (Three.js)
+   - Intro text: rotating titles like “AI Researcher”, “IoT Architect”, “Startup Builder”, “AR/VR Designer”
+   - CTA: “Meet My Agents”
+
+2. **About Me (🧬 Agent: BioNarrator)**:
+   - AI introduces Harshit’s journey
+   - Use chat bubble or AI-style quote box
+   - Cards for strengths: ML, IoT, Edge AI, Patents, Startups
+
+3. **Projects (📦 Agent: SystemSynth)**:
+   - Graph-based system UI (e.g., Glucose AI → Sensors → Pi → Cloud → Prediction)
+   - Clickable nodes reveal project cards
+   - Tags: [ML], [Edge], [IoT], [Startup], [Patent]
+   - Lottie animation or GIF per project
+
+4. **Skills (🧠 Agent: TechTagger)**:
+   - Animated 3D word cloud (Three.js/drei)
+   - Skills grouped: AI/ML, Embedded, Cloud, Visualization
+   - Tooltips for each skill
+
+5. **Experience (📜 Agent: ChronoTracker)**:
+   - Scroll timeline with each role animated in
+   - Icons/logos for Thapar, IIT Roorkee, Aeroinspect
+   - Floating badges for “Founder”, “Inventor”, “Tutor”
+
+6. **Publications & Patents (📚 Agent: DocuLink)**:
+   - Flip cards for each publication
+   - DOI/Patent linkouts
+   - Filter: [Patent] [Paper] [Review]
+
+7. **Volunteering & Achievements (💛 Agent: Impactor)**:
+   - Animated badge wall
+   - Lottie animation of teaching/kids/events
+   - Quotes/testimonials (if any)
+
+8. **Contact (📬 Agent: Connecta)**:
+   - EmailJS form
+   - Use Glassmorphism
+   - Add social buttons + location map
+   - Success = confetti or animated icon
+
+---
+
+🎨 UI AESTHETIC:
+- Sci-fi + Lab dashboard hybrid
+- Dark mode default
+- Soft shadows, gradients, and orbit-style motion
+- Minimal hover sound or microinteraction (optional)
+
+---
+
+⚙️ DEPLOYMENT
+- Configure Firebase Hosting
+- Add Firebase Analytics
+- Optimize for Lighthouse (90+ scores)
+
+---
+
+📎 OPTIONAL INTEGRATIONS
+- Add GPT agent for FAQs
+- Add Lottie or 3D simulation for solar cleaning / glucose prediction
+- Add Markdown-based blog with Firebase Firestore (optional)
+
+---
+
+🔚 DELIVER:
+- Modular code (src/components/agents/*.jsx)
+- All sections animated
+- Firebase `firebase.json` + hosting ready
+- `.env` usage documented
+- README with build + deploy steps
+
